@@ -1,8 +1,8 @@
 
 # Clima ☁
 
--This app gives you the weather of your place according to your geographical location
--and also has the ability to give you some recommendations According to the weather condition!
+- This app gives you the weather of your place according to your geographical location
+- and also has the ability to gives you some recommendations According to the weather condition!
 
 
 # What i have used in this app:
